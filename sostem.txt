@@ -1,0 +1,1 @@
+teste para criar aquivo txt pelo git bash
