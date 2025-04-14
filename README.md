@@ -1,5 +1,5 @@
 # GitHub4Women
 Repositório Inicial do curso Github4Women
 
-## CONTATO 
+## Contato
 email: anaferro.contato@gmail.com
